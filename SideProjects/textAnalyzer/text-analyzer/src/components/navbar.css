@@ -1,0 +1,11 @@
+.navbar-background {
+    background-color: #f1f7ff;
+}
+
+.navbar-brand{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #242424
+}
